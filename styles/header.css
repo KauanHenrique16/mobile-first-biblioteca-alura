@@ -6,8 +6,10 @@
 }
  .cabeçalho{ 
     backgroud-color:var(--branco);
+    display: flex;
+    justify-content: space-between;
 }
 .div-1{
     display:flex;
-    justify-content: space-around;
+    justify-content:space-between;
 }
