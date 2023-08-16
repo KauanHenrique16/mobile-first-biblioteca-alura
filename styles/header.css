@@ -20,7 +20,8 @@ h1{
     display: none;
 }
 @media screen and (min-width: 1024px0){
-    display: block;
-    font-size: 30px;
-    
+    h1{ 
+        display: block;
+        font-size: 30px;
+    }
 }
