@@ -3,7 +3,7 @@
     height: 24px;
     background-image: url(../imagen/Menu.svg.png);
     display: inline-block;
- }
+}
  .cabeçalho{ 
     backgroud-color:var(--branco);
 }
