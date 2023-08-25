@@ -1,5 +1,5 @@
 .cabeçalho_menu-hamburguer {
-    background-color: var(#FFFFFF);
+    background-color: var(--branco);
     width: 24px;
     height: 24px;
     background-image: url(../imagen/Menu.svg.png);
@@ -12,6 +12,8 @@
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    position: relative;
 }
 
 .div-1 {
