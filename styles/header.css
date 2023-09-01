@@ -30,4 +30,8 @@ h1 {
         display: block;
         font-size: 30px;
     }
+    .lista-menu{
+        display: none;
+    }
+    .div_menu:checked~.lista-menu
 }
