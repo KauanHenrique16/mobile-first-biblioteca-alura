@@ -31,6 +31,10 @@ h1 {
 .lista-menu-titulo{
     color: ;
 }
+.lista-menu-link{
+    background: var(--roxo);
+    background-clip: ;
+}
 @media screen and (min-width: 1024px) {
     h1 {
         display: block;
