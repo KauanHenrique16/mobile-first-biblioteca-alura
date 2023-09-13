@@ -24,15 +24,23 @@
 h1 {
     display: none;
 }
-
+.lista-menu-titulo,.lista-menu-item{
+    padding: lem;
+    background-color: var(--amarelo);
+}
+.lista-menu-titulo{
+    color: ;
+}
 @media screen and (min-width: 1024px) {
     h1 {
         display: block;
         font-size: 30px;
     }
-
+    
     .lista-menu {
         display: none;
+        position: absolute;
+        top: 100%;
     }
 
     .div_menu:checked~.lista-menu
