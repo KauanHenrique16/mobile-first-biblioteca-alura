@@ -34,7 +34,8 @@ h1 {
 }
 .lista-menu-link{
     background: var(--roxo);
-    text-transform: ;
+    background-clip: text; 
+    text-transform:up ;
 }
 .div-menu{
     display: none;
