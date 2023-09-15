@@ -35,7 +35,7 @@ h1 {
 .lista-menu-link{
     background: var(--roxo);
     background-clip: text; 
-    text-transform:up ;
+    text-transform:uppercase ;
 }
 .div-menu{
     display: none;
