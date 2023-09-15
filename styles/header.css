@@ -34,7 +34,10 @@ h1 {
 }
 .lista-menu-link{
     background: var(--roxo);
-    background-clip: ;
+    text-transform: ;
+}
+.div-menu{
+    display: none;
 }
 @media screen and (min-width: 1024px) {
     h1 {
