@@ -26,10 +26,11 @@ h1 {
 }
 .lista-menu-titulo,.lista-menu-item{
     padding: lem;
-    background-color: var(--amarelo);
+    background-color: var(--branco);
 }
 .lista-menu-titulo{
-    color: ;
+    color:var(--amarelo) ;
+    font-weight: 700;
 }
 .lista-menu-link{
     background: var(--roxo);
