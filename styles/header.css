@@ -23,14 +23,16 @@
 
 h1 {
     display: none;
+
 }
+
 .lista-menu-titulo,.lista-menu-item{
+
     padding: lem;
     background-color: var(--branco);
 }
 .lista-menu-titulo{
     color:var(--amarelo) ;
-    font-weight: 700;
 }
 .lista-menu-link{
     background: var(--roxo);
